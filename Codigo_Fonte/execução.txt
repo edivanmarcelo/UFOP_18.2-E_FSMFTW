@@ -1,0 +1,1 @@
+os parâmetros podem ser modificados no main.cpp
